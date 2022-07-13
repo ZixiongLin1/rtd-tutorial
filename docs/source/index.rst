@@ -1,13 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to QPrism's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**QPrism** is a Python library that can thoroughly assess the quality of video, audio, and sensor data.
+It provides user the flexibility to compute any supported metrics that are relevant to their research, 
+and the genrality that the library applies to any data converted to the specified structure. 
+**To be filled in, current statement of need is a bit subjective and need modification in my opinion.** 
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`install` the project.
 
 .. note::
 
@@ -20,3 +20,21 @@ Contents
 
    usage
    api
+   glossary
+   examples
+
+
+Acknowledgements
+----------------
+
+Fill in the acknowledgements
+
+Contribution
+------------
+
+Fill in how the community can contribute to the project, how to report an issue, etc
+
+License
+-------
+
+To be done - Apply the OSI
